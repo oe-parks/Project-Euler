@@ -1,7 +1,3 @@
-import pandas
-import numpy
-
-
 numbers = list(range(1000))
 
 del numbers[0]
