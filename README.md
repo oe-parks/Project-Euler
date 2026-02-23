@@ -1,7 +1,12 @@
 # Project-Euler
-Everything related to my Project Euler journey
 
-The goal of this repo is to show my progression through the archived problems as well as in the field of mathematics and cs. 
+A collection of my solutions to Project Euler problems.
 
-If you hope to work through these problems yourself, maybe don't look at the contents of this repo.
+The goal of this repo is to document my progression through the problems 
+and my growth in both mathematics and computer science.
 
+Each solution is in its own file (e.g. projeuler1.py) and contains my 
+approach to the problem.
+
+**Note:** If you're working through these problems yourself, I'd recommend 
+not looking at the solutions.
